@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "Mapbox",
             url: "https://github.com/jimmyluong/Mapbox_Binary/archive/main.zip",
-            checksum: "348453495bad198b380e033a6bc6e6134bf71be27116904a25152b93a2d77491")
+            checksum: "33dc7a4875f43c8a290a093bbf72adf971077266ae545a4e6148828128ddb62b")
     ]
 )
