@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Mapbox",
-            url: "https://github.com/mapbox/mapbox-gl-native-ios/archive/refs/tags/ios-v6.4.1.zip",
-            checksum: "bf8e902bd78c101ee5a6ee2014d97688")
+            url: "https://github.com/mapbox/mapbox-gl-native-ios/releases/tag/ios-v6.3.0",
+            checksum: "26b84d26b8086379c9a530b2bbdc643d")
     ]
 )
